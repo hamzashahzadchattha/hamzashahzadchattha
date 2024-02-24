@@ -4,7 +4,7 @@ import img1 from '../../assets/home/about1.png';
 import img2 from '../../assets/home/about2.png';
 import img3 from '../../assets/home/about3.png';
 
-const AboutUsHome = () => {
+const AboutUsHome = ({ call }) => {
     return (
         <>
             <div className={`container ${styles.contain}`}>
@@ -16,7 +16,7 @@ const AboutUsHome = () => {
                             <p className={styles.content}>At Cybertech Gate, we're your unwavering shield against digital threats. In today's interconnected world, safeguarding your digital assets isn't just a priority — it's essential. With expertise and innovation, we offer tailored cybersecurity services, from threat detection to rapid response. Our mission is your peace of mind in an increasingly complex cyber landscape.</p>
                         </div>
                         <div data-aos='zoom-in' style={{ textAlign: 'left' }}>
-                            <button className={`btn custom_btn ${styles.btn}`}> MEET OUR TEAM</button>
+                            <button className={`btn custom_btn ${styles.btn}`} onClick={() => call()}> MEET OUR TEAM</button>
                         </div>
 
                     </div>

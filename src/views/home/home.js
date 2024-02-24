@@ -9,8 +9,14 @@ import AboutUsHome from "../../components/AboutUsHome";
 import Testimonial from "../../components/Testimonial";
 import TeamHome from "../../components/OurTeam/TeamHome";
 
-
 const Home = () => {
+  const scrollToTeamHome = () => {
+    const teamHomeSection = document.getElementById('teamHomeSection');
+    if (teamHomeSection) {
+      teamHomeSection.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
+
   return (
     <>
       {/* Banner Section  */}
@@ -20,7 +26,7 @@ const Home = () => {
 
       {/* About Us Section */}
       <section>
-        <AboutUsHome />
+        <AboutUsHome call={scrollToTeamHome} />
       </section>
 
       {/* Why Choosing Us Section  */}
@@ -29,9 +35,10 @@ const Home = () => {
       </section>
 
       {/* TeamHome Section  */}
-      <section>
+      <section id="teamHomeSection">
         <TeamHome />
       </section>
+
       {/* Services Section  */}
       <section>
         <ServicesHome />
@@ -56,6 +63,7 @@ const Home = () => {
       <section>
         <Footer />
       </section>
+
     </>
   );
 };
