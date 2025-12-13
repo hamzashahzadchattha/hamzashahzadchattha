@@ -26,6 +26,9 @@ me = CloudArchitect()
 print(me.life_motto())
 ```
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
+
 ## 🚀 What I'm All About
 
 I'm that engineer who gets excited about shaving milliseconds off API response times and architecting systems that scale effortlessly. I don't just write code—I craft digital experiences that handle real-world chaos with grace.
@@ -89,12 +92,6 @@ When I'm not deep in AWS documentation or optimizing database queries, you'll fi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashahzadchattha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" alt="Top Languages" />
-</p>
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hamzashahzadchattha/hamzashahzadchattha/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ## 🎯 Projects I'm Proud Of
@@ -217,7 +214,7 @@ Got an interesting problem? Need someone who can architect scalable solutions? J
 
 ---
 
-<div align="center">
-  <br><br>
-  <b>💡 Always open to interesting projects and collaborations! 💡</b>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /> &nbsp; Always open to interesting projects and collaborations! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
