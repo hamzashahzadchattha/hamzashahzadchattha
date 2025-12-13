@@ -27,8 +27,7 @@ print(me.life_motto())
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-<br><br>
-
+<br>
 ## 🚀 What I'm All About
 
 I'm that engineer who gets excited about shaving milliseconds off API response times and architecting systems that scale effortlessly. I don't just write code—I craft digital experiences that handle real-world chaos with grace.
@@ -217,4 +216,3 @@ Got an interesting problem? Need someone who can architect scalable solutions? J
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /> &nbsp; Always open to interesting projects and collaborations! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-<br><br>
