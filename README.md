@@ -75,10 +75,6 @@ When I'm not deep in AWS documentation or optimizing database queries, you'll fi
 ## 📊 GitHub Stats (Because Numbers are Cool)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzashahzadchattha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzashahzadchattha&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" />
 </p>
 
@@ -94,7 +90,7 @@ When I'm not deep in AWS documentation or optimizing database queries, you'll fi
 Remember when I said I build from scratch? This is THE proof. Created an entire telehealth platform that connects patients and doctors in real-time. We're talking video consultations, smart appointment scheduling, instant notifications—the whole nine yards.
 
 **The Cool Stuff:**
-- 🎥 HD video calls that actually work (thanks Agora.io!)
+- 🎥 Video calls that actually work (thanks Agora.io!)
 - 🔔 Push notifications that don't annoy people
 - 🤖 Smart scheduling using AWS Step Functions
 - 📱 Works seamlessly on iOS, Android, and Web
@@ -166,7 +162,6 @@ my_strengths = {
     "ownership": "I treat every project like it's my own baby",
     "communication": "Technical depth + clear explanations = happy teams",
     "proactive": "I spot issues before they become problems",
-    "empathy": "Code serves people, not the other way around"
 }
 
 def what_you_get():
