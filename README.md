@@ -203,7 +203,6 @@ Got an interesting problem? Need someone who can architect scalable solutions? J
 ---
 
 <div align="center">
-  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</i>
   <br><br>
   <b>💡 Always open to interesting projects and collaborations! 💡</b>
 </div>
