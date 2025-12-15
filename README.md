@@ -27,7 +27,7 @@ print(me.life_motto())
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-<br>
+
 ## 🚀 What I'm All About
 
 I'm that engineer who gets excited about shaving milliseconds off API response times and architecting systems that scale effortlessly. I don't just write code—I craft digital experiences that handle real-world chaos with grace.
